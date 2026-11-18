@@ -1,9 +1,10 @@
 
 body {
-    background-color: #f5f5f5;
+    background-color: #1d4221;
+    color: white;
     margin: 0;
     padding: 16px 20px;
-    font-family: Georgia, 'Times New Roman', serif;
+    font-family: "Bai Jamjuure", sans-serif;
 }
 
 .container {
