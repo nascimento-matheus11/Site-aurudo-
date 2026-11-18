@@ -6,32 +6,3 @@ body {
     padding: 16px 20px;
     font-family: "Bai Jamjuure", sans-serif;
 }
-
-.container {
-    background-color: #1d4221;
-    border-top: 2px solid #444;
-    padding: 1px 8px 26px;
-}
-
-p {
-    font-size: 18px;
-    line-height: 1.2;
-    color: #111;
-}
-
-.opcoes {
-    display: flex;
-    gap: 5px;
-    flex-wrap: wrap;
-}
-
-button {
-    font-family: Arial, sans-serif;
-    font-size: 16px;
-    padding: 3px 8px;
-    cursor: pointer;
-}
-
-button:hover {
-    background-color: #ddd;
-}
